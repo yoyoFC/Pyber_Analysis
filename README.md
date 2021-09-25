@@ -10,6 +10,8 @@ A new assigment was received to complement the previous results. This time we wi
 
 The following picture shows the results based on the 3 different city types.
 
+<p align="center"><img src="https://user-images.githubusercontent.com/88695570/134754462-8cc57f1f-5867-4889-97d4-000bad4571f1.png">
+
 It was predectible to assume that the largest number of drivers and trips are located in the Urban city type. This trend confirms that the city has more transportation traffic, compared to the other two types of cities. 
 
 It is not a surprise either, that the Urban's total fare is the highest result. This is obviously due to the number of services on demand. The request for taxi services is significatly lower on the Rural and Suburban areas which affect the total fare value. 
@@ -21,6 +23,8 @@ Another important result is the one relate to the Suburban type. It keeps the se
 ## Summary
 
 As part of the assigment, we will include business recommendations based on the analysis obtained. 
+
+<p align="center"><img src="https://user-images.githubusercontent.com/88695570/134754478-41d8034a-78ae-46b1-b226-09bdc559bfd6.png">
 
 - Increase the number of drivers in Suburban and Rural areas: I think that a good strategy to increase revenues would be to increase the number of drivers in the Suburban and Rural areas. For instance, by duplicating the number of drivers in the suburban area we may obtain almost the same "total fare" value for the Urban area. Moreover, the average fare per driver on the Rural area is more than 3 times the average of the Urban area. This is another indicator to analyze a possible investment out of the center of the city.
 
